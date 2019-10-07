@@ -60,6 +60,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+#### **Coding Blocks**
+
+- **Swag**: T-shirt, Stickers and Bags
+- **Requirements**:
+  - 1+ merged pull requests: Stickers and T-shirt
+  - 5+ merged pull requests: Wildcraft Bag
+- **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
+- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog) Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
 
 ### D
 
